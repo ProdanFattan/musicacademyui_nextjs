@@ -1,6 +1,6 @@
 # Musical Academy Basic UI using NextJs
 
-This long video was designed to give you an indepth understanding about latest nextjs and how it works.
+This project is created using basic nextJS concept
 
 ## Tech Stack
 
