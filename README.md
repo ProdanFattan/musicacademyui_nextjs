@@ -1,7 +1,21 @@
-#for installation
---------npm i
+# Musical Academy Basic UI using NextJs
 
-#for run
---------npm run dev
+This long video was designed to give you an indepth understanding about latest nextjs and how it works.
 
-#aceternity ui library is used for this system
+## Tech Stack
+
+- Nextjs
+- typescript
+- AceternityUI
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
